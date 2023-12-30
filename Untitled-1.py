@@ -6,3 +6,5 @@ import matplotlib
 
 print("hello world")
 print(10+10)
+va="creating a variable"
+print(va)
