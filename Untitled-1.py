@@ -3,3 +3,6 @@ print("Hello World")
 import numpy as np
 import pandas as pd
 import matplotlib
+
+print("hello world")
+print(10+10)
