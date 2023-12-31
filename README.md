@@ -1,5 +1,5 @@
-This is a demo git repository 
-i am  checking out different features and practicing my git skills
-this is new change
+# This is demo program
 
-making some more lines
+we wll be working on advertising data set of a company.[EOF]
+we will see the relationship between sales and spend on advertising on different platforms like TV, Newspaper and radio[EOF]
+we will use machine learning algorithms to to predict the future sales given the bidget.[EOF]
